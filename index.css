@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Michroma&display=swap');
+
+body {
+    text-align: center;
+    color: white;
+    background-color: black;
+    font-family: 'Michroma', sans-serif;
+}
+
+div {
+    
+    margin-top: 20%;
+    
+}
+
+h1 {
+    font-size: 6em;
+    
+}
+
+button {
+    font-size: 2.2em;
+    border-radius: 2px;
+    border: none;
+    color: white;
+    margin: 1px;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+.start-btn {
+    background-color: green;
+}
+
+.pause-btn {
+    background-color: grey;
+}
+
+.stop-btn {
+    background-color: red;
+}
+
